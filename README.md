@@ -16,6 +16,14 @@ Hello, I'm Lee Jia Yee. Currently a final year UTM student studying **Bachelor o
 - R programming
 
 # Tools
-Dev C++ - Visual Studio Code - RStudio - Oracle - MongoDB - Github - Java - NetBeans - Intellij IDEA 
+- Dev C++
+- Visual Studio Code
+- RStudio
+- Oracle
+- MongoDB
+- Github
+- Java
+- NetBeans
+- Intellij IDEA 
 
  
