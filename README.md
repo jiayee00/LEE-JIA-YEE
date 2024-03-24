@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lee Jia Yee</h1>
 
 <h3>Introduction</h3>
-Hello, I'm Lee Jia Yee. Currently a final year UTM student studying Bachelor of Computer Science in Bioinformatics. I'm a proactive person who love to explore the world as well as a good learner and adapt well to the new environment. I enjoy coding and analyse data.
+Hello, I'm Lee Jia Yee. Currently a final year UTM student studying Bachelor of Computer Science in Bioinformatics. I'm a proactive person who love to explore the world as well as a good learner and adapt well to the new environment. I enjoy coding and analysing data.
 <br><br>
 
 - 👨‍💻I had conducted my internship in iFAST.Capital.Sdn.Bhd. under IT application department.
