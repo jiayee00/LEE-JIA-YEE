@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lee Jia Yee</h1>
-
+![Floral Feminine Calm Self-Introduction Presentation](https://github.com/jiayee00/LEE-JIA-YEE/assets/93247906/5def4d13-7d95-4854-bdef-c6d28bfbedef)
 
 <h3>Introduction</h3>
 Hello, I'm Lee Jia Yee. Currently a final year UTM student studying Bachelor of Computer Science in Bioinformatics. I'm a proactive person who love to explore the world as well as a good learner and adapt well to the new environment. I enjoy coding and analysing data.
