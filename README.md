@@ -4,7 +4,7 @@
 Hello, I'm Lee Jia Yee. Currently a final year UTM student studying Bachelor of Computer Science in Bioinformatics. I'm a proactive person who love to explore the world as well as a good learner and adapt well to the new environment. I enjoy coding and analyse data.
 <br><br>
 
-- 👨‍💻I have conducted my internship in iFAST.Capital.Sdn.Bhd. under IT application department.
+- 👨‍💻I had conducted my internship in iFAST.Capital.Sdn.Bhd. under IT application department.
 - 🔭 I’m currently working on **Classification of Breast Cancer Subtype Using MoGCN Deep Learning Method on Multi-Omics Data** as my final year project
 
 
